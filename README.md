@@ -30,4 +30,6 @@ I am currently following a dual bachelor in Computer Science and Mathematics.
 ![](https://img.shields.io/badge/CODE-PYTHON-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-OCaml-informational?style=flat&logo=ocaml&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-MATLAB-informational?style=flat&logo=mathworks&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=data:visualstudiocode/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Editor-VSCODE-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-OpenMP-informational?style=flat&color=2bbc8a)
