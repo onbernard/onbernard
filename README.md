@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-My name is Onésime BERNARD and I am an undergrad at Université Paul Sabatier Toulouse (FR).
+My name is Onésime BERNARD and I am an undergrad at Université Paul Sabatier Toulouse 🇫🇷.
 
 I am currently following a dual bachelor in Computer Science and Mathematics. 
 
