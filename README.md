@@ -33,3 +33,4 @@ I am currently following a dual bachelor in Computer Science and Mathematics.
 ![](https://img.shields.io/badge/Editor-VSCODE-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-OpenMP-informational?style=flat&color=2bbc8a)
+
