@@ -22,4 +22,4 @@ I am currently following a dual bachelor in Computer Science and Mathematics.
 
 ### 🧰 My toolbox
 
-![](https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
