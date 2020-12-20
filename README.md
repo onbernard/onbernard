@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **onbernard/onbernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Header](https://github.com/onbernard/onbernard/blob/main/Slide5.jpg "Header")]()
+
+### Hi there 👋
+
+My name is Onésime BERNARD and I am an undergrad at Université Paul Sabatier Toulouse (FR).
+
+I am currently following a dual bachelor in Computer Science and Mathematics. 
+
+### 🧰 My toolbox
+
+![](https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
