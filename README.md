@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://github.com/onbernard/onbernard/blob/main/bannervf.jpg "Header")]()
+[![Header](https://github.com/onbernard/onbernard/blob/main/swanlakemain.jpg "Header")]()
 
 ### Hi there 👋
 
