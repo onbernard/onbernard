@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 -->
 [![Header](https://github.com/onbernard/onbernard/blob/main/swanlakemain.jpg "Header")]()
 
-### Hi there 👋
+### Hello there 👋
 
-My name is Onésime BERNARD and I am an undergrad at Université Paul Sabatier Toulouse.
-
-I am currently following a dual bachelor in Computer Science and Mathematics. 
+Full-stack software developper and system administrator. Education in mathematics and
+computer science. Experience in building AI and reverse engineering tools for digital forensic,
+in managing IT infrastructure on Linux and Windows and scrapping data for personal OSINT
+projects. When I am not bullying a computer, you can find me on my bike or watching
+formula 1
 
 ### 🧰 My toolbox
 
